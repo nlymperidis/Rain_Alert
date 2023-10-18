@@ -23,7 +23,7 @@ To use this script, you need to configure it with your API keys and phone number
 
 Ensure that you replace the placeholder values with your actual credentials.
 
-Set the MY_LAT and MY_LONG variables to the latitude and longitude of your location. By default, the script is configured for Serres, Greece.
+Set the `MY_LAT` and `MY_LONG` variables to the latitude and longitude of your location. By default, the script is configured for Serres, Greece.
 
 ### Usage
 The script will check the weather forecast for your location and notify you if rain is expected in the next 12 hours.
@@ -31,6 +31,6 @@ If rain is expected, you will receive a text message with the estimated time of 
 You can choose whether to send the message or not by responding to the script's prompt: "Do you want to send a message? Y or N?"
 
 ### Acknowledgments
-This project was created as a learning exercise and is not affiliated with any flight data providers or notification services.
+This project was created as a learning exercise.
 
 
